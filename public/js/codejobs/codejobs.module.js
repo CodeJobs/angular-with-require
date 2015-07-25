@@ -14,7 +14,7 @@
         function HomeController($scope) {
             var vm = this;
 
-            vm.name = 'Carlos';
+            vm.name = 'Codejobs';
         }
     });
 })();
