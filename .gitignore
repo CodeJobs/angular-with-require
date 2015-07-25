@@ -1,0 +1,5 @@
+.DS_Store
+
+public/bower_components
+public/css/**/*.css
+public/css/*.css

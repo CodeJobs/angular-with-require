@@ -1,0 +1,10 @@
+{
+    "name": "codejobs",
+    "version": "0.0.1",
+    "author": "Carlos Santana",
+    "license": "MIT",
+    "dependencies": {
+        "angular": "~1.4.3",
+        "requirejs": "latest"
+    }
+}
